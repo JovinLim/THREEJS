@@ -1,1 +1,3 @@
 This repository contains the projects I have undertaken to learn Threejs and a record of what tips/guides for beginners
+
+The first project is the cracked cube, which was modelled in Blender (along with assigning of materials) and visualized using html and JS (threejs).
